@@ -383,13 +383,12 @@
   text-decoration: none;
   display: flex;
   align-items: center;
-  column-gap: 16px;
+  column-gap: 10px;
 }
 
 .footer__social-icon {
   width: 16px;
   height: 16px;
-  margin-right: 10px;
 }
 
 .footer__copyright {
